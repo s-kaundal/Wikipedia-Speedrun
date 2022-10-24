@@ -7,6 +7,7 @@ This piece of code was a way for me to:
 A project simply to guide my into a new topic while also using previous knowledge of data structures and Python.
 
 My process:
+- First and foremost, I researched what I needed to download prior to working with the MediaWiki API (installing pip files).
 - I started with researching MediaWiki's documentation to see the different kinds of requests and information they provide.
 - Then, after I brushed up my Python knowledge to make a simple class to hold the requests.
 - Following this, I researched what kind of structure Wikipedia has and quickly noticed it is a graph of article linking each other with loops.
